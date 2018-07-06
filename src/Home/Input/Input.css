@@ -1,0 +1,9 @@
+#editor {
+    margin-top: 20px;
+}
+#editor textarea {
+    width: 70%;
+    height: 400px;
+    padding-left: 20px;
+    border: 1px solid #424444;
+}

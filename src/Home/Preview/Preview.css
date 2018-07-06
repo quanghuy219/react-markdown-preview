@@ -1,0 +1,44 @@
+#preview {
+    text-align: left;
+    padding: 20px;
+}
+#preview pre {
+    padding: 16px;
+    line-height: 1.5;
+    background-color: #f6f8fa;
+    border-radius: 3px;
+    overflow: hidden;
+}
+#preview pre code {
+    padding: 0;
+    margin: 0;
+    overflow: visible;
+    word-wrap: normal;
+
+}
+#preview  code {
+    padding: 0.2em 0.4em;
+    margin: 0;
+    background-color: #f6f8fa;
+    border-radius: 3px;
+}
+#preview blockquote {
+    font-size: 1.7em;
+    padding: 0 1em;
+    color: #6a737d;
+    border-left: 0.25em solid #dfe2e5;
+}
+#preview table th {
+    padding: 6px 13px;
+    border: 1px solid #dfe2e5;
+    font-weight: 600;
+    text-align: center;
+}
+#preview table tr {
+    background-color: #fff;
+    border-top: 1px solid #c6cbd1;
+}
+#preview table td {
+    padding: 6px 13px;
+    border: 1px solid #dfe2e5;
+}
